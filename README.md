@@ -1,5 +1,5 @@
 # whoami:
-I’m a **tech enthusiast** with a deep passion for **audio equipment** and a **minimalist** approach to design and workflow. I have a strong interest in **cybersecurity** and am currently exploring different tech stacks. When I’m not coding, you’ll find me listening to music or beatboxing.
+I’m a **tech enthusiast** with a deep passion for **audio equipment** and a **minimalist** approach to design and workflow. I have a strong interest in **cybersecurity** and am currently exploring different tech stacks. When I’m not coding, you’ll find me listening to music or beatboxing!
 
 
 ## 🌐 Socials:
