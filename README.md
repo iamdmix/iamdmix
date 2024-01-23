@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **dharmikvs26@gmail.com**
 
-- ⚡ Fun fact **Talented Instrumentalist ;)**
+- ⚡ Fun fact **I'm a Talented Instrumentalist 🎹 and self taught beatoxer;)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
