@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dharmik Shinde</h1>
-<h3 align="center">A passionate cybersecurity enthusiast from India</h3>
+<h3 align="center">A passionate cybersecurity enthusiast from India 🇮🇳 </h3>
 
-- 🌱 I’m currently learning **Cybersecurity and Ethical Hacking, Linux and DSA**
+- 🌱 I’m currently learning **💻 Cybersecurity and 🔐 Ethical Hacking, 🐧 Linux and DSA**
 
 - 📫 How to reach me **dharmikvs26@gmail.com**
 
