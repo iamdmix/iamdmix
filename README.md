@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **💻 Cybersecurity and 🔐 Ethical Hacking, 🐧 Linux and DSA**
 
-- 📫 How to reach me **dharmikvs26@gmail.com**
+- 📫 Reach me at **dharmikvs26@gmail.com**
 
 - ⚡ Fun fact **I'm a Talented Instrumentalist 🎹 and self taught beatoxer;)**
 
