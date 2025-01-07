@@ -5,7 +5,7 @@
 
 - 📫 Reach me at **dharmikvs26@gmail.com**
 
-- ⚡ Fun fact **I'm a Talented Instrumentalist 🎹 and self taught beatoxer;)**
+- ⚡ Fun fact **I'm a Talented Instrumentalist 🎹 and self taught beatboxer;)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
