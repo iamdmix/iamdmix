@@ -25,6 +25,7 @@ I'm a tech enthusiast with a deep passion for audio equipment and a minimalist a
 ![Supabase](https://img.shields.io/badge/supabase-%233FCF8E.svg?style=for-the-badge&logo=supabase&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![Apache Pulsar](https://img.shields.io/badge/Apache%20Pulsar-%23188FFF.svg?style=for-the-badge&logo=apache&logoColor=white)
 ![Apache Pinot](https://img.shields.io/badge/Apache%20Pinot-%23007BFF.svg?style=for-the-badge&logo=apache&logoColor=white)
 ![Quarkus](https://img.shields.io/badge/quarkus-%23007D9C.svg?style=for-the-badge&logo=quarkus&logoColor=white)
@@ -38,6 +39,7 @@ I'm a tech enthusiast with a deep passion for audio equipment and a minimalist a
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
 
 ---
 *Minimal desk, maximal curiosity.*
