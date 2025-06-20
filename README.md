@@ -39,6 +39,14 @@ I'm a tech enthusiast with a deep passion for audio equipment and a minimalist a
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
+## 🚀 Currently Exploring
+- Architecting **rocket-fast, Kubernetes-native development environments** using **Quarkus**, spanning:
+  - Microservice architectures
+  - RESTful service design
+  - WebSocket-based communication patterns
+  - Asynchronous, event-driven distributed systems
+- Building and benchmarking **real-time analytics pipelines** for high-throughput, low-latency use cases.
 
 ---
+
 *Minimal desk, maximal curiosity.*
