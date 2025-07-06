@@ -49,4 +49,4 @@ I'm a tech enthusiast with a deep passion for audio equipment and a minimalist a
 
 ---
 
-*Minimal desk, maximal curiosity.*
+*Minimal desk, maximal curiosity!*
