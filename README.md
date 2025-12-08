@@ -1,5 +1,11 @@
-#  🫡 whoami:
+
+# 🫡 whoami:
 I'm a tech enthusiast with a deep passion for audio equipment and a minimalist approach to design and workflow. I have a strong interest in cybersecurity and am currently exploring different tech stacks. When I'm not coding, you'll find me listening to music or beatboxing!
+<p align="center">
+  <a href="https://dharmikshinde.tech">
+    <img src="https://img.shields.io/badge/VISIT%20MY%20WEBSITE-4B0082?style=for-the-badge&logo=internetexplorer&logoColor=white" alt="Visit my website: https://dharmikshinde.tech"/>
+  </a>
+</p>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shindedharmik)
@@ -45,10 +51,10 @@ I'm a tech enthusiast with a deep passion for audio equipment and a minimalist a
 
 ## 🚀 Currently Exploring
 - Architecting **rocket-fast, Kubernetes-native development environments** using **Quarkus**, spanning:
-  - Microservice architectures
-  - RESTful service design
-  - WebSocket-based communication patterns
-  - Asynchronous, event-driven distributed systems
+  - Microservice architectures
+  - RESTful service design
+  - WebSocket-based communication patterns
+  - Asynchronous, event-driven distributed systems
 - Building and benchmarking **real-time analytics pipelines** for high-throughput, low-latency use cases.
 
 ---
