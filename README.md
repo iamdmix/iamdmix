@@ -1,2 +1,2 @@
-Visit my website: [www.dharmikshinde.tech](https://dharmikshinde.tech)  
-Read more: [blog.dharmikshinde.tech](https://blog.dharmikshinde.tech)
+Visit my website: [www.dharmikshinde.in](https://dharmikshinde.in)  
+Read more: [blog.dharmikshinde.in](https://blog.dharmikshinde.in)
